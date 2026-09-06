@@ -1,0 +1,8 @@
+# Erdos-Renyi general graph G(n, p)
+# nodes=10 edge_probability=0.04 seed=42 edges=4
+# first data line: '<node count> <edge count>', then one '<source> <target>' pair per line
+10 4
+0 2
+1 2
+1 5
+2 5
